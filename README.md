@@ -7,4 +7,4 @@ This advanced chatbot, powered by natural language processing, assists in provid
 This chatbot can help you provide restaurant suggestions based on your requirements such as - City, Time, Number of people, Cuisine Type and Date. The bot uses the yelp API to fetch relevant suggestions and mails the suggestions on the email-id that the user provides. 
 
 ## ARCHITECHTURE :- 
-![diagram](Architecture (1).png)
+![diagram](architecture.png)
